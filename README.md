@@ -19,7 +19,7 @@ This is a program to find the degree of profanity for given tweets. <br />
 * A custom list of racial slur words is created
   * Words can be added, removed or imported as per requirement
 * Each tweet in the imported file is then checked for racial slur words in the list
-* If racial slur words are found, the based on number of racial slur words contained in the tweet, a profanity score is assigned to the tweet
+* If racial slur words are found, then based on number of racial slur words contained in the tweet, a profanity score is assigned to the tweet
 
 # Example
 ```
