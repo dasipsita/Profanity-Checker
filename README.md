@@ -13,11 +13,11 @@ Packages you need to install to run this code are listed below: <br />
 
 # Description
 This is a program to find the degree of profanity for given tweets. <br />
-* A file with tweets is imported
+* A file with tweets in csv format is imported
 * The tweets are then cleaned to remove noise from the tweets 
-  * To clean the tweets hashtags, mentions, puntuations, and numbers are getting removed 
-* A list of racial slur words is imported
-  * Words can be added or removed as per requirements
+  * To clean the tweets hashtags, mentions, puntuations, and numbers are removed 
+* A custom list of racial slur words is created
+  * Words can be added, removed or imported as per requirement
 * Each tweet in the imported file is then checked for racial slur words in the list
 * If racial slur words are found, the based on number of racial slur words contained in the tweet, a profanity score is assigned to the tweet
 
