@@ -24,7 +24,7 @@ This is a program to find the degree of profanity for given tweets. <br />
 # Example
 ```
 Enter a sample tweet: !!RT @dude stop writing fake %^%%78*  news asshole!!!*** 
-cleaned sample tweet:        stop writing fake        news asshole  
+Cleaned sample tweet:        stop writing fake        news asshole  
 Sample tweet tokens:  ['stop', 'writing', 'fake', 'news', 'asshole']
 Profanity score for given sample tweet is: 0.2
 ```
